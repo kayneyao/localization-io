@@ -434,7 +434,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -614,6 +614,22 @@
     [
       "c0c3b276-ae23-48c2-9824-bf30dce5574d",
       "Root"
+    ],
+    [
+      "819dc26d-f273-4edf-ac8c-4ee164d27f8f",
+      "sensors"
+    ],
+    [
+      "affdd42a-5ad4-4785-8ed0-80e7012eac30",
+      "power"
+    ],
+    [
+      "b2d0cba3-1013-4613-bfb8-33eea1d419bd",
+      "mcu"
+    ],
+    [
+      "44171575-82e7-414f-a864-e3d053614dd6",
+      "io"
     ]
   ],
   "text_variables": {}
