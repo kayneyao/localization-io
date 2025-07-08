@@ -2343,6 +2343,28 @@
 			)
 		)
 	)
+	(global_label "INT_IMU"
+		(shape input)
+		(at 111.76 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b7e2d22-e625-417f-8443-dfc51df7d93f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.5176 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RX0"
 		(shape input)
 		(at 111.76 76.2 180)
@@ -2387,28 +2409,6 @@
 			)
 		)
 	)
-	(global_label "IO6"
-		(shape input)
-		(at 111.76 120.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a95be442-9462-4270-baf7-cfba5c387ba6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.63 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "IO1"
 		(shape input)
 		(at 111.76 93.98 180)
@@ -2431,9 +2431,9 @@
 			)
 		)
 	)
-	(global_label "IO7"
+	(global_label "INT_MAG"
 		(shape input)
-		(at 111.76 123.19 180)
+		(at 111.76 120.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2441,9 +2441,9 @@
 			)
 			(justify right)
 		)
-		(uuid "cf7d5c9a-5901-4006-8cfe-6fe2f7d4fd65")
+		(uuid "e10c129b-ac2d-49aa-bc52-f4fdfae89e1f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.63 123.19 0)
+			(at 101.0943 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
