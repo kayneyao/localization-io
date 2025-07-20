@@ -1848,7 +1848,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS1"
 			(at 76.2001 102.87 90)
 			(effects
 				(font
@@ -2319,7 +2319,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS0"
 			(at 77.47 77.4699 90)
 			(effects
 				(font
@@ -2659,7 +2659,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS1"
 			(at 76.2 88.138 90)
 			(effects
 				(font

@@ -3398,8 +3398,8 @@
 		(at 134.25 74.625 -90)
 		(descr "Tactile switch, SPST, 6.0x3.5 mm, H2.5 mm, straight, NO, gull wing leads: https://www.ckswitches.com/media/2779/pts636.pdf")
 		(tags "switch tactile SPST 1P1T straight NO SMTR C&K")
-		(property "Reference" "EN"
-			(at -0.025 -3.35 0)
+		(property "Reference" "SW1"
+			(at -0.025 -4.15 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7c97c1e5-4791-44a8-ab1e-e12a6d8d2e45")
@@ -4271,7 +4271,7 @@
 		(at 134.25 65 90)
 		(descr "Tactile switch, SPST, 6.0x3.5 mm, H2.5 mm, straight, NO, gull wing leads: https://www.ckswitches.com/media/2779/pts636.pdf")
 		(tags "switch tactile SPST 1P1T straight NO SMTR C&K")
-		(property "Reference" "BOOT"
+		(property "Reference" "SW2"
 			(at 0 4.35 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -6745,7 +6745,7 @@
 				)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS1"
 			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "adb3c91c-e75b-4aa6-8e51-9fea3c816103")
@@ -8089,7 +8089,7 @@
 				)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS0"
 			(at 0 3.1 90)
 			(layer "F.Fab")
 			(uuid "61086e9a-12b5-4542-aaa9-35725c343918")
@@ -11146,7 +11146,7 @@
 				)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "D_TVS1"
 			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "ce23436d-d67f-43a4-8847-865553460074")
